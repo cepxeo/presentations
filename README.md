@@ -1,11 +1,14 @@
 # Presentations materials
 
+2020
+* Compromising protected domain environments (+ videos)
+
 2019
 * Windows & Linux post exploitation (+ videos)
 
 2018
 * Comparing web application scanners
-* Pentest basics (+ videos)
+* Pentest basics (videos)
 
 2017
 * Securing the Application Development
