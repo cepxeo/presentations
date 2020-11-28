@@ -1,4 +1,4 @@
-# Presentations materials
+# Presentation materials
 
 2020
 * Compromising protected domain environments (+ videos)
