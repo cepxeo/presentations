@@ -1,7 +1,7 @@
 # Presentation materials
 
 2020
-* Compromising protected domain environments (+ videos)
+* Compromising protected domains (+ videos)
 
 2019
 * Windows & Linux post exploitation (+ videos)
