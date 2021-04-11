@@ -1,19 +1,15 @@
 # Presentation materials
 
-2020
+2020 Pentest
 * Compromising protected domains (+ videos)
 
-2019
+2019 Pentest
 * Windows & Linux post exploitation (+ videos)
 
-2018
+2018 AppSec
 * Comparing web application scanners
-* Pentest basics (videos)
 
-2017
+2017 AppSec
 * Securing the Application Development
 * Securing the SDLC. Challenges of implementation.
-
-2015
-* 5 simple and effective steps for infrastructure security
 
