@@ -1,11 +1,10 @@
-# My presentation materials
+# My presentations materials
 
-2020 Pentest
-* Compromising protected domains (+ videos)
+* 2022 Practical DevSecOps. Challenges of implementation.
 
-2019 Pentest
-* Windows & Linux post exploitation (+ videos)
+* 2020 Compromising protected domains (+ videos)
 
-2018 AppSec
-* Comparing web application scanners
+* 2019 Windows & Linux post exploitation (+ videos)
+
+* 2018 Comparing web application scanners
 
