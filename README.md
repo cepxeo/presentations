@@ -2,7 +2,7 @@
 
 * 2022 Practical DevSecOps. Challenges of implementation.
 
-* 2020 Compromising protected domains (+ videos)
+* 2021 Compromising protected domains (+ videos)
 
 * 2019 Windows & Linux post exploitation (+ videos)
 
