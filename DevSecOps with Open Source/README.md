@@ -5,12 +5,6 @@ ScanSuite is the self contained vulnerability scanning orchestrator for the  cod
 
 Results are exported to [DefectDojo](https://github.com/DefectDojo/django-DefectDojo). 
 
-Docker is also required here as many of the tools used are dockerised, others will be kindly installed as you invoke them (tested on Ubuntu).
-
-The cli tool works well for both standalone checks and CI/CD pipeline. Here is the one of the implementation ways [Practical DevSecOps. Challenges of implementation.](https://github.com/cepxeo/presentations/blob/master/Practical_DevSecOps.pdf)
-
-![](img/scansuite.png)
-
 ### Install DefectDojo
 
 Execute the following command:
