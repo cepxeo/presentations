@@ -1,5 +1,7 @@
 # My presentations materials
 
+* 2024 The Power of Static Code Analysis
+
 * 2023 DevSecOps with Open Source
 
 * 2022 Building a better SIEM without paying for it
