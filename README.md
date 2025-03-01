@@ -1,5 +1,7 @@
 # My presentations materials
 
+* 2025 Awesome Infrastructure Scans with ScanSuite
+
 * 2024 The Power of Static Code Analysis
 
 * 2023 DevSecOps with Open Source
