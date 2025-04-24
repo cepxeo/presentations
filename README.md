@@ -1,4 +1,6 @@
-# My presentations materials
+# My presentations materials from conferences and workshops
+
+* 2025 LLMing Vulnerability Assessments
 
 * 2025 Awesome Infrastructure Scans with ScanSuite
 
